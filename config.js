@@ -26,7 +26,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qjkpw0.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "☠️",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "SPOTY-XMD",
 // add bot name here for menu
